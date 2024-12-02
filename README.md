@@ -6,11 +6,11 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 🎓</li>저는 컴퓨터공학 학생입니다.</li>여러 코딩들을 공부하고 있습니다. 성장하며 개발 환경에 기여해보는 것을 목표로 하고 있어요! <br>   </li></li></li>Hi there! 🎓</li>I'm a Computer Science Student. I'm studying various coding.</li>Excited to grow and contribute to the tech community! </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    
     <div  align= "center"> </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
     </div>
