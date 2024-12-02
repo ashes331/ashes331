@@ -1,8 +1,3 @@
-![Purple Banner](https://via.placeholder.com/1200x400/9b59b6/ffffff?text=My+Purple+Profile)
-
-## 🚀 기술 스택
-
-
 
 ## Hi there 👋
 
