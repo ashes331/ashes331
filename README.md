@@ -10,13 +10,7 @@
         I'm studying various coding. Excited to grow and contribute to the tech community!
     </div> 
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 스탯 Stats </h2> 
-    <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ashes331&bg_color=60,deadff,ffc2c2&title_color=ffffff&text_color=ffffff" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashes331&layout=compact&bg_color=60,deadff,ffc2c2&title_color=ffffff&text_color=ffffff" />
-    </div> 
-</div>
+
     
     
 
