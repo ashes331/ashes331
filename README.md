@@ -31,10 +31,7 @@ profile = {
 
 **AI / ML Tools**
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00B4D8?style=flat-square&logo=google&logoColor=white)
-![librosa](https://img.shields.io/badge/librosa-F7931E?style=flat-square&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools & Infra**
 
