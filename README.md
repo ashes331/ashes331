@@ -65,7 +65,7 @@ profile = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashes331&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=ashes331&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
