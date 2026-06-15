@@ -7,6 +7,20 @@
 
 ---
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=AI+Software+Engineering+Student+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashes331&count_bg=%23E040FB&title_bg=%232D1B69&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
+
+</div>
+
+---
+
 ## 👋 반가워요 여러분! Nice to meet you, everyone!
 
 ```python
@@ -41,6 +55,27 @@ profile = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+## 💡 Skill Level
+
+```text
+Python      ████████░░░░░░░░░░░░   80%
+JavaScript  █████████░░░░░░░░░░░   90%
+PyTorch     █████░░░░░░░░░░░░░░░   50%
+OpenCV      █████░░░░░░░░░░░░░░░   50%
+```
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
