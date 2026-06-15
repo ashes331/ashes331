@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0f3460&height=200&section=header&text=ashes331&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=AI%20Software%20Engineering%20Student&descAlignY=58&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c9b8f0,100:e8d5f5&height=200&section=header&text=ashes331&fontSize=50&fontColor=5b3a8e&fontAlignY=38&desc=AI%20Software%20Engineering%20Student&descAlignY=58&descColor=7c5cbf)
 
 </div>
 
@@ -48,14 +48,14 @@ profile = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ashes331&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashes331&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ashes331&show_icons=true&theme=default&hide_border=true&bg_color=f5f0ff&title_color=5b3a8e&icon_color=9b6dff&text_color=5b3a8e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashes331&layout=compact&theme=default&hide_border=true&bg_color=f5f0ff&title_color=5b3a8e&text_color=7c5cbf" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=ashes331&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=8b949e)
+![Streak](https://streak-stats.demolab.com/?user=ashes331&theme=default&hide_border=true&background=f5f0ff&ring=9b6dff&fire=c084fc&currStreakLabel=5b3a8e)
 
 </div>
 
@@ -109,6 +109,6 @@ profile = {
 <!-- Footer -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1b2e&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,100:c9b8f0&height=120&section=footer)
 
 </div>
