@@ -99,9 +99,9 @@ profile = {
 ## 📖 Currently Learning
 
 ```
-→ Audio Deep Learning  — WaveNet, CTC Loss, ASR 아키텍처
-→ MCP (Model Context Protocol)  — 서버 구축 및 Claude 연동
-→ Vibe Coding  — AI-assisted rapid prototyping
+→ PyTorch Deep Learning  — CNN · RNN · Transformer · RL(DQN) 구현 및 실습
+→ AI Service Development  — 데이터 수집·전처리 · 모델 학습·성능 평가·배포
+→ LLM & Fullstack AI  — LLM 기반 서비스 설계 · AI 백엔드 + Web 프론트엔드 연동
 ```
 
 ---
