@@ -61,6 +61,26 @@ profile = {
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashes331&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashes331&bg_color=1a0533&color=e040fb&line=64ffda&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🚀 Repository Archive
 
 ### 📅 2026
