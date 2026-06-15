@@ -31,7 +31,10 @@ profile = {
 
 **AI / ML Tools**
 
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00B4D8?style=flat-square&logo=google&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-F7931E?style=flat-square&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools & Infra**
 
@@ -58,14 +61,38 @@ profile = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Repository Archive
 
-| 프로젝트 | 설명 | 스택 |
+### 📅 2026
+
+| 저장소 | 설명 | 스택 |
 |---|---|---|
-| 🎤 **ASR-Study** | WaveNet · CTC Loss · 오디오 딥러닝 파이프라인 구현 및 실험 | `Python` `PyTorch` `librosa` |
-| ✋ **Gesture-Recognition** | MediaPipe + 분류 모듈 통합, 실시간 랜드마크 시각화 | `Python` `MediaPipe` `OpenCV` |
-| 🤖 **진로상담 챗봇** | Make.com · Claude AI · Google Sheets 연동 풀스택 챗봇 | `JavaScript` `HTML` `Claude API` |
-| 📚 **AI Capstone 2026** | AI Agent & MCP 아키텍처 연구 (동양미래대 캡스톤 디자인) | `Python` `MCP` `Markdown` |
+| 🎓 **[2026-Capstone](https://github.com/ashes331/2026-Capstone)** | 2026 캡스톤디자인 | `Python` `MCP` |
+| 🤖 **[2026-AI-ServiceProject](https://github.com/ashes331/2026-AI-ServiceProject)** | 인공지능서비스프로젝트 관련 코드 모음 | `HTML` `JavaScript` |
+| 📱 **[mobileproject](https://github.com/ashes331/mobileproject)** | 모바일 프로젝트 | `JavaScript` |
+| 🛝 **[Special-Playground](https://github.com/ashes331/Special-Playground)** | 개인 실험 및 테스트 저장소 | `Python` |
+
+### 📅 2025
+
+| 저장소 | 설명 | 스택 |
+|---|---|---|
+| 🧠 **[2025-DeepLearning](https://github.com/ashes331/2025-DeepLearning)** | 딥러닝프로그래밍 관련 코드 및 과제 | `Python` `PyTorch` |
+| 👁 **[2025-ComputerVision](https://github.com/ashes331/2025-ComputerVision)** | 컴퓨터비전 수업 관련 코드 | `Python` `OpenCV` |
+| 📊 **[2025-A-BigData-AppProgramming](https://github.com/ashes331/2025-A-BigData-AppProgramming)** | 빅데이터응용프로그래밍 | `Python` |
+| 📖 **[handson-ml3](https://github.com/ashes331/handson-ml3)** | Hands-on ML 3판 소스코드 및 실습 | `Python` `Jupyter` |
+| 🤖 **[2025-1-ML](https://github.com/ashes331/2025-1-ML)** | 기계학습(머신러닝) 수업 관련 코드 | `Python` `sklearn` |
+| 📉 **[2025-DLP](https://github.com/ashes331/2025-DLP)** | 딥러닝프로그래밍 과목 코드 모음 | `Python` `PyTorch` |
+| 📦 **[2025-1-BDA](https://github.com/ashes331/2025-1-BDA)** | 빅데이터분석입문 | `Python` `Pandas` |
+
+### 📅 2024
+
+| 저장소 | 설명 | 스택 |
+|---|---|---|
+| 🔥 **[2024-DeepLearning](https://github.com/ashes331/2024-DeepLearning)** | 딥러닝 관련 코드 및 실습 | `Python` `PyTorch` |
+| 📈 **[2024-intro-DA](https://github.com/ashes331/2024-intro-DA)** | 데이터분석입문 코딩 연습 및 과제 | `Python` `Pandas` |
+| ☕ **[Java-ProG](https://github.com/ashes331/Java-ProG)** | 자바프로그래밍 수업 코드 | `Java` |
+| 🌐 **[Web-server](https://github.com/ashes331/Web-server)** | 웹서버프로그래밍 수업 코드 | `JavaScript` `Node.js` |
+| 🐧 **[2024-OSS](https://github.com/ashes331/2024-OSS)** | 오픈소스소프트웨어 과목 코드 모음 | `Markdown` `Shell` |
 
 ---
 
